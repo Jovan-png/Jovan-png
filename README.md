@@ -8,5 +8,6 @@ My name is Jovan Norrington Jr, i'm a software engineering student. Although i'v
 * Subscribe to my [Youtube](https://www.youtube.com/c/lebraci) if you like! <br>
 
 
-# Stats
+## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jovan-png)](https://github.com/jovan-png/github-readme-stats)
+[![Jovan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jovan-png)](https://github.com/jovan-png/github-readme-stats)
